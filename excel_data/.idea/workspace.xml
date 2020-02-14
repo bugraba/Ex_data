@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="397bc1e9-5772-48ed-a584-6a1c9012e62d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XlHud630Qulg2GSZpMuNHG8qI3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../testfile_excel/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel_data" type="PythonConfigurationType" factoryName="Python">
+      <module name="excel_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="397bc1e9-5772-48ed-a584-6a1c9012e62d" name="Default Changelist" comment="" />
+      <created>1581613984760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581613984760</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581629750831">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="104" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.735@0.23.1280.735" timestamp="1581614471574" />
+    <state x="104" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.736@0.23.1280.736" timestamp="1581629750831" />
+    <state width="1259" height="183" key="GridCell.Tab.0.bottom" timestamp="1581629803266">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1259" height="228" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1581615248421" />
+    <state width="1259" height="183" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1581629803266" />
+    <state width="1259" height="183" key="GridCell.Tab.0.center" timestamp="1581629803263">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1259" height="228" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1581615248420" />
+    <state width="1259" height="183" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1581629803263" />
+    <state width="1259" height="183" key="GridCell.Tab.0.left" timestamp="1581629803262">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1259" height="228" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1581615248419" />
+    <state width="1259" height="183" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1581629803262" />
+    <state width="1259" height="183" key="GridCell.Tab.0.right" timestamp="1581629803265">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1259" height="228" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1581615248420" />
+    <state width="1259" height="183" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1581629803265" />
+    <state width="1259" height="228" key="GridCell.Tab.1.bottom" timestamp="1581629765656">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1259" height="228" key="GridCell.Tab.1.bottom/0.23.1280.735@0.23.1280.735" timestamp="1581615248423" />
+    <state width="1259" height="228" key="GridCell.Tab.1.bottom/0.23.1280.736@0.23.1280.736" timestamp="1581629765656" />
+    <state width="1259" height="228" key="GridCell.Tab.1.center" timestamp="1581629765655">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1259" height="228" key="GridCell.Tab.1.center/0.23.1280.735@0.23.1280.735" timestamp="1581615248421" />
+    <state width="1259" height="228" key="GridCell.Tab.1.center/0.23.1280.736@0.23.1280.736" timestamp="1581629765655" />
+    <state width="1259" height="228" key="GridCell.Tab.1.left" timestamp="1581629765655">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1259" height="228" key="GridCell.Tab.1.left/0.23.1280.735@0.23.1280.735" timestamp="1581615248421" />
+    <state width="1259" height="228" key="GridCell.Tab.1.left/0.23.1280.736@0.23.1280.736" timestamp="1581629765655" />
+    <state width="1259" height="228" key="GridCell.Tab.1.right" timestamp="1581629765655">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1259" height="228" key="GridCell.Tab.1.right/0.23.1280.735@0.23.1280.735" timestamp="1581615248422" />
+    <state width="1259" height="228" key="GridCell.Tab.1.right/0.23.1280.736@0.23.1280.736" timestamp="1581629765655" />
+    <state x="141" y="29" key="SettingsEditor" timestamp="1581629726621">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="141" y="29" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1581614384959" />
+    <state x="141" y="29" key="SettingsEditor/0.23.1280.736@0.23.1280.736" timestamp="1581629726621" />
+    <state x="317" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1581629779024">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="317" y="222" key="com.intellij.ide.util.TipDialog/0.23.1280.735@0.23.1280.735" timestamp="1581613993117" />
+    <state x="317" y="222" key="com.intellij.ide.util.TipDialog/0.23.1280.736@0.23.1280.736" timestamp="1581629779024" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="wdir(~Users/Bugrahan/Desktop/Data)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
